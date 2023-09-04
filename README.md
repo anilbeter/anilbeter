@@ -1,6 +1,8 @@
-**filled by passion about game dev & frontend**
+**filled by passion about game dev & frontend** <br>
 _industrial engineering student_
-![](https://media.giphy.com/media/eZPDf6AL3RpBa6Lhyq/giphy.gif)
+
+<!-- ![](https://media.giphy.com/media/eZPDf6AL3RpBa6Lhyq/giphy.gif) -->
+<img src = "https://media.giphy.com/media/eZPDf6AL3RpBa6Lhyq/giphy.gif" alt="retro sunset" width="200">
 
 ### some languages & programs that I like to use
 
