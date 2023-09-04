@@ -1,30 +1,19 @@
-<h1 align="center">Hi, I'm Anil</h1>
-<h3 align="center">frontend & game developer</h3>
+**filled by passion about game dev & frontend**
+_industrial engineering student_
+![](https://media.giphy.com/media/eZPDf6AL3RpBa6Lhyq/giphy.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/anilbeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anilbeter" height="30" width="40" /></a>
-</p>
+### some languages & programs that I like to use
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilbeter&show_icons=true&locale=en&layout=compact" alt="anilbeter" /></p>
+### over and over
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilbeter&show_icons=true&locale=en" alt="anilbeter" /></p>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=anilbeter&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilbeter&" alt="anilbeter" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anilbeter&theme=synthwave&hide_border=false)<br/>
 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilbeter&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<!---
--Hello, I'm Anil.  
--Nowadays I working with JavaScript and Unity.  
--Learning web development staff...  
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-<!---
-anilbeter/anilbeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "I'ma go on my way."
