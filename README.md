@@ -13,7 +13,7 @@ _industrial engineering student_
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) <img src="https://pbs.twimg.com/media/F5W11AUXEAA98Vd?format=png&name=240x240" width="50px" style="margin-left: 96px"/><br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
 ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) <img src="https://pbs.twimg.com/media/F5W11AUXEAA98Vd?format=png&name=240x240" width="50px" style="margin-left: 96px"/><br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://pbs.twimg.com/media/F5W11AUXEAA98Vd?format=png&name=240x240" width="50px" style="margin-left: 96px"/><br>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://pbs.twimg.com/media/F5W11AUXEAA98Vd?format=png&name=240x240" width="50px" style="padding-left: 96px"/><br>
 ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white) <img src="https://pbs.twimg.com/media/F5W11AUXEAA98Vd?format=png&name=240x240" width="50px" style="margin-left: 96px"/><br>
 
 ### over and over
