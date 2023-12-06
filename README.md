@@ -1,5 +1,5 @@
-<p>Hey there! I'm Anil from Ankara, Turkey</p>
-<strong>surrounded by many passions for game dev & frontend</strong>
+<p>Hey there! I'm Anil from Ankara, Turkey.</p>
+<strong>surrounded by many passions for game dev & frontend</strong> <br>
 <em>industrial engineering student</em>
 
 ## Projects
