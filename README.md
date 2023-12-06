@@ -1,8 +1,13 @@
-**surrounded by many passions for game dev & frontend** <br>
-_industrial engineering student_
+<p>Hey there! I'm Anil from Ankara, Turkey</p>
+<strong>surrounded by many passions for game dev & frontend</strong>
+<em>industrial engineering student</em>
 
-<!-- ![](https://media.giphy.com/media/eZPDf6AL3RpBa6Lhyq/giphy.gif) -->
-<img src = "https://media.giphy.com/media/eZPDf6AL3RpBa6Lhyq/giphy.gif" alt="retro sunset" width="300">
+## Projects
+<ul>
+<li><a target="_blank" href = "https://omnifood-anilbeter.netlify.app/">Omnifood: Modern Startup Website</a></li>
+<li><a target="_blank" href ="https://today-i-learned-anilbeter.netlify.app/">Today I Learned! Web App Made with React</a></li>
+</ul>
+
 
 ### some languages & programs that I like to use
 
