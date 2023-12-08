@@ -3,8 +3,10 @@
 <em>industrial engineering student</em>
 
 ## Projects
-- [Omnifood: Modern Startup Website](https://omnifood-anilbeter.netlify.app/)
-- [Today I Learned! Web App Made with React](https://today-i-learned-anilbeter.netlify.app/)
+<ul>
+  <li><a href="https://omnifood-anilbeter.netlify.app/" target="_blank">Omnifood: Modern Startup Website<a/></li>
+  <li><a href="https://today-i-learned-anilbeter.netlify.app/" target="_blank">Today I Learned! Web App Made with React</a></li>
+</ul>
 
 ### some languages & programs that I like to use
 
