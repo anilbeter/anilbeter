@@ -1,6 +1,6 @@
 <p>Hey there! I'm Anil from Ankara, Turkey.</p>
 <strong>surrounded by many passions for game dev & frontend</strong> <br>
-<em>industrial engineering student</em>
+<em>industrial engineering student @ostim technical university</em>
 
 ## Projects
 <ul>
