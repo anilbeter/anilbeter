@@ -1,4 +1,7 @@
 <p>Hey there! I'm Anil from Ankara, Turkey.</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anilfeelsalive) 
+
 <strong>surrounded by many passions for game dev & frontend</strong> <br>
 <em>industrial engineering student @ostim technical university</em>
 
