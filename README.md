@@ -8,9 +8,10 @@
 
 ## Projects
 <ul>
-  <li><a href="https://forkify-anilbeter.netlify.app/" target="_blank">Forkify: Find and Share Recipes!</a></li>
+  <li><a href="https://forkify-anilbeter.netlify.app/" target="_blank">Forkify: Find and Share Recipes! Made with Vanilla JavaScript</a></li>
   <li><a href="https://omnifood-anilbeter.netlify.app/" target="_blank">Omnifood: Modern Startup Website<a/></li>
-  <li><a href="https://today-i-learned-anilbeter.netlify.app/" target="_blank">Today I Learned! Web App Made with React</a></li>
+  <li><a href="https://today-i-learned-anilbeter.netlify.app/" target="_blank">Today I Learned! Web App Made with React.js</a></li>
+  <li><a href="https://usepopcorn-anilbeter.netlify.app/" target="_blank">usePopcorn: Rate & Save your Favorite Movies! Made with React.js</a></li>
 </ul>
 
 ### some languages & programs that I like to use
