@@ -14,6 +14,7 @@
   <li><a href="https://usepopcorn-anilbeter.netlify.app/" target="_blank">usePopcorn: Rate & Save Your Favorite Movies! Made with React.js</a></li>
   <li><a href="https://classyweather-anilbeter.netlify.app/" target="_blank">Classy Weather: One Page Weather App | Made with React.js</a></li>
   <li><a href="https://react-quiz-anilbeter.netlify.app/" target="_blank">The React Quiz App | Made with React.js</a></li>
+  <li><a href="https://mapty-anilbeter.netlify.app/" target="_blank">Mapty App | Vanilla JavaScript</a></li>
 </ul>
 
 ### some languages & programs that I like to use
