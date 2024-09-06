@@ -3,7 +3,7 @@
 <hr>
 
 <strong>surrounded by many passions for game dev & frontend</strong> <br>
-<em>industrial engineering student @ostim technical university</em>
+<em>industrial engineering student</em>
 
 ## Projects
 <ul>
