@@ -17,6 +17,7 @@
   <li><a href="https://react-quiz-anilbeter.netlify.app/" target="_blank">The React Quiz App | Made with React.js</a></li>
   <li><a href="https://mapty-anilbeter.netlify.app/" target="_blank">Mapty App | Vanilla JavaScript</a></li>
   <li><a href="https://manbags-anilbeter.netlify.app/" target="_blank">ManBags: One Page Online Shopping | Made with TailwindCSS</a></li>
+  <li><a href="https://piano-anilbeter.netlify.app/" target="_blank">Online Piano | Made with Vanilla JS</a></li>
     
 </ul>
 
