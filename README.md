@@ -29,3 +29,5 @@ IBM Data Science Professional Certificate · Optimization modeling in Python
 
 <sub>Frontend coursework & practice (Omnifood, Forkify, Bankist, etc.) lives in
 individual repos — kept for reference, not original work.</sub>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anilbeter&theme=nightowl)](https://git.io/streak-stats)
