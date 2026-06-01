@@ -1,42 +1,31 @@
-<p>Hey there! I'm Anil from Ankara, Turkey.</p>
+### Hey there! I'm Anıl from Ankara, Turkey 👋
 
-<hr>
+**Industrial Engineering student who codes.** I build optimization and data
+tools with Python - bridging operations research and software.
+Also into game dev & frontend.
 
-<strong>surrounded by many passions for game dev & frontend</strong> <br>
-<em>industrial engineering student</em>
+🌱 Currently learning the Data Science stack (Python · pandas · SQL) and
+building optimization models with PuLP.
 
-## Projects
-<ul>
-  <li><a href="https://omnifood-anilbeter.netlify.app/" target="_blank">Omnifood: Modern Startup Website<a/></li>
-  <li><a href="https://forkify-anilbeter.netlify.app/" target="_blank">Forkify: Find and Share Recipes! Made with Vanilla JavaScript</a></li>
-  <li><a href="https://bankist-anilbeter.netlify.app/" target="_blank">Bankist App | Made with Vanilla JavaScript</a></li>
-  <li><a href="https://today-i-learned-anilbeter.netlify.app/" target="_blank">Today I Learned! Web App Made with React.js</a></li>
-  <li><a href="https://usepopcorn-anilbeter.netlify.app/" target="_blank">usePopcorn: Rate & Save Your Favorite Movies! Made with React.js</a></li>
-  <li><a href="https://classyweather-anilbeter.netlify.app/" target="_blank">Classy Weather: One Page Weather App | Made with React.js</a></li>
-  <li><a href="https://weatherapp-anilbeter.netlify.app/" target="_blank">Weather App | Made with Vanilla JS</a></li>
-  <li><a href="https://react-quiz-anilbeter.netlify.app/" target="_blank">The React Quiz App | Made with React.js</a></li>
-  <li><a href="https://mapty-anilbeter.netlify.app/" target="_blank">Mapty App | Vanilla JavaScript</a></li>
-  <li><a href="https://manbags-anilbeter.netlify.app/" target="_blank">ManBags: One Page Online Shopping | Made with TailwindCSS</a></li>
-  <li><a href="https://piano-anilbeter.netlify.app/" target="_blank">Online Piano | Made with Vanilla JS</a></li>
-    
-</ul>
+---
 
-### some languages & programs that I like to use
+#### 🛠️ Featured Work
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **WIM Sensor Placement Optimization** — Graduation thesis: optimizing
+  weigh-in-motion sensor locations across Turkey's highway network with a
+  Set Covering / 0-1 ILP model. `Python · PuLP`
+- **Operations Research with Python** — Classic OR models built from scratch:
+  linear programming (product mix), assignment problem, set covering. `Python · PuLP`
 
-### 23
+#### 📊 Skills
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=anilbeter&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+**Core:** Python · Operations Research / Optimization (PuLP, ILP) · pandas · SQL *(learning)*
+**Also:** JavaScript · React · HTML / CSS · Unity / C#
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=anilbeter&theme=synthwave&hide_border=false)<br/> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=anilbeter&theme=nord)](https://git.io/streak-stats)
+#### 📚 Currently
+IBM Data Science Professional Certificate · Optimization modeling in Python
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilbeter&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+---
 
-> "I'ma go on my way."
+<sub>Frontend coursework & practice (Omnifood, Forkify, Bankist, etc.) lives in
+individual repos — kept for reference, not original work.</sub>
